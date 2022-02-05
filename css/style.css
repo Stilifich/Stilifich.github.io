@@ -71,13 +71,13 @@ h2{
   line-height: -30px;
 }
 
-/*.border{
+.border{
   background-color: #111;
   color:#fff;
   padding: 2.5%;
   width: 65%;
   margin: 0;
-}*/
+}
 
 .border.trans{
   background-color: transparent;
